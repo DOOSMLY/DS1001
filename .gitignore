@@ -24,3 +24,4 @@ project.ipynb
 .venv/bin/debugpy-adapter
 .venv/bin/debugpy
 .venv/bin/activate.fish
+DorukUnal_env/
